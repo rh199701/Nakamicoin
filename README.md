@@ -1,1 +1,1 @@
-# Nakamicoin
+# Nakamacoin
